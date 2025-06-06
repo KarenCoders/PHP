@@ -20,5 +20,5 @@ class Coche {
 }
 
 //Crear un objeto
-$miCoche = new Coche("","", "");
+$miCoche = new Coche("Ford","Mustang", "2023");
 echo $miCoche->mostrarDetalles();
